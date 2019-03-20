@@ -1,0 +1,7 @@
+C:\Users\bbdnet1963\source\repos\MissingWhat\MissingWhat\bin\Debug\MissingWhat.exe.config
+C:\Users\bbdnet1963\source\repos\MissingWhat\MissingWhat\bin\Debug\MissingWhat.exe
+C:\Users\bbdnet1963\source\repos\MissingWhat\MissingWhat\bin\Debug\MissingWhat.pdb
+C:\Users\bbdnet1963\source\repos\MissingWhat\MissingWhat\obj\Debug\MissingWhat.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1963\source\repos\MissingWhat\MissingWhat\obj\Debug\MissingWhat.exe
+C:\Users\bbdnet1963\source\repos\MissingWhat\MissingWhat\obj\Debug\MissingWhat.pdb
+C:\Users\bbdnet1963\source\repos\MissingWhat\MissingWhat\obj\Debug\MissingWhat.csprojAssemblyReference.cache
